@@ -7,14 +7,14 @@ events = {
     "Swimming": "Individual"
 }
 
-# ---------------- TEAM SETUP ---------------- #
-
+# Define teams and players
 teams = {
-    "Team A": 0,
-    "Team B": 0,
-    "Team C": 0,
-    "Team D": 0
+    "Team A": ["A1", "A2", "A3", "A4", "A5"],
+    "Team B": ["B1", "B2", "B3", "B4", "B5"],
+    "Team C": ["C1", "C2", "C3", "C4", "C5"],
+    "Team D": ["D1", "D2", "D3", "D4", "D5"]
 }
+
 
 # ---------------- INDIVIDUAL SETUP ---------------- #
 
